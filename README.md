@@ -1,5 +1,8 @@
 ### Hi there 👋 I am Mahima Ramamoorthi ! :)
 
+![Code Blooded Human !](https://drive.google.com/file/d/174leQficbYC0A1W2lcG9BEy5a_IOzrQK/view?usp=sharing)
+
+
 - 🔭 I’m currently studying at Monash University. 
 - 🌱 I’m currently learning PYTHON | SQL | DATA SCIENCE | ML | LIFE SKILLS | HUMANITY 
 - 📫 How to reach me: rmahima99@gmail.com 
