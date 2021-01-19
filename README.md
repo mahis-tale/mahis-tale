@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Mahima Ramamoorthi ! :)
 
-![Code Blooded Human !](https://drive.google.com/file/d/174leQficbYC0A1W2lcG9BEy5a_IOzrQK/view?usp=sharing)
+![Code Blooded Human !](https://github.com/mahis-tale/DP-/blob/main/Mahima%20R.png)
 
 
 - 🔭 I’m currently studying at Monash University. 
